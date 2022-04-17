@@ -1,0 +1,5 @@
+VIN,Collor,YearOne,YearTwo,GhostImage
+1,yes,yes,no,no
+3,green,no,yes,no
+4,red,no,yes,no
+5,no,no,no,no
